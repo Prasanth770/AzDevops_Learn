@@ -1,2 +1,6 @@
 sample 
+<<<<<<< HEAD
 wosyutuhagkbvjkugyBHKUV
+=======
+dev changes
+>>>>>>> dev
