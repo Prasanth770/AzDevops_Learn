@@ -1,6 +1,10 @@
 sample 
 <<<<<<< HEAD
+<<<<<<< HEAD
 wosyutuhagkbvjkugyBHKUV
 =======
 dev changes
 >>>>>>> dev
+=======
+fdrfghdedg
+>>>>>>> 856b201893a1491f03f43c458852ee53984a47a4
